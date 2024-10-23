@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+This template should help get you started developing with React, TypeScript and Vite.
+
+Use this link [Stackblitz](https://stackblitz.com/github/progSoc/2024ReactWorkshop) to start coding in the browser.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
